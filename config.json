@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdync",
+        "uuid": 841320,
+        "checksum": "88vgl"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
